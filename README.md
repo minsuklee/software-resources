@@ -1,7 +1,5 @@
 # 소프트웨어 개발 관련 블로그 및 콘텐츠 목록
 
-### [이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
-
 ## 목차
 * [기업-기술 블로그](blogs/tech_blogs.md)
 * [국내 주요 기업의 Github Repository](https://github.com/channy/korea-devculture/blob/main/github.md) 
