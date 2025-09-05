@@ -1,5 +1,3 @@
-## [이노베이션 아카데미 공식 블로그](https://42place.innovationacademy.kr/) <- 클릭
-
 ## 국내, 국외 개발 블로그 모음
 
 * [어썸데브블로그](https://github.com/awesome-devblog/awesome-devblog)
